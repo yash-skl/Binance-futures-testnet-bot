@@ -21,14 +21,20 @@ I built this as part of a hiring assignment to demonstrate API integration, CLI 
 
 
 bot/
+
   client.py
+  
   orders.py
+  
   logging_config.py
 
 
 cli.py
+
 test_connection.py
+
 test_order.py
+
 test_limit_order.py
 
 
