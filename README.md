@@ -19,10 +19,12 @@ I built this as part of a hiring assignment to demonstrate API integration, CLI 
 
 ## Project structure
 
+
 bot/
   client.py
   orders.py
   logging_config.py
+
 
 cli.py
 test_connection.py
@@ -55,6 +57,7 @@ pip install -r requirements.txt
 Create a .env file in root:
 
 BINANCE_API_KEY=your_api_key
+
 BINANCE_SECRET_KEY=your_secret_key
 
 ---
